@@ -1,0 +1,59 @@
+body {
+    font-family: sans-serif;
+}
+header {
+    border:3px solid rgb(69, 207, 110);
+    color:rgb(224, 62, 62);
+    padding:5px;
+    font-size: 20px;
+    border-radius: 15px;
+}
+header a {
+background-color:rgb(83, 231, 85);
+color:rgb(255, 0, 0);
+text-decoration:none;
+border-radius:10px;
+padding:4px;
+margin: 4px;
+}
+h1 {
+    text-align:center;
+    color:rgb(225,0,0);
+    font-size:34px;
+}
+footer {
+   background: rgb(120, 224, 151); 
+   padding: 2px;
+}
+footer p {
+    background: rgb(255, 255, 255);
+    width: 380px;
+    padding: 3px;
+    margin-left: 10px;
+}
+nav {
+   background: rgba(80, 161, 4, 0.916);
+    padding:4px;
+    border-radius: 7px;
+    margin: 6px;
+}
+nav a {
+    color:white;
+    margin:35px;
+    text-decoration: none;
+}
+.ng {
+    background: rgb(184, 233, 133);
+    padding: 8px;
+    border-radius: 10px;
+}
+h2 {
+color:rgb(225,0,0);
+
+}
+.napravlenue {
+text-decoration:none;
+border:3px solid rgb(255, 0, 0);
+color:rgba(34, 64, 6, 0.916); 
+padding: 4px;
+}
